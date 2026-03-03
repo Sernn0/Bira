@@ -1,0 +1,8 @@
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.DS_Store
+openclaw/node_modules/
+openclaw/.env
+openclaw/dist/
+openclaw/.pnpm-store/
